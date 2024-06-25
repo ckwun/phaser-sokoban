@@ -1,0 +1,40 @@
+{
+  "name": "sokoban",
+  "version": "1.0.0",
+  "description": "Sokoban game using Phaser 3 game framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack serve --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckwun/sokoban.git"
+  },
+  "keywords": [
+    "sokoban",
+    "phaser",
+    "html5",
+    "game"
+  ],
+  "author": "CK Wun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ckwun/sokoban/issues"
+  },
+  "homepage": "https://github.com/ckwun/sokoban#readme",
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-import-resolver-webpack": "^0.13.8",
+    "eslint-plugin-import": "^2.29.1",
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  }
+}
