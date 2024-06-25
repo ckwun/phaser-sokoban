@@ -1,5 +1,5 @@
 # phaser-sokoban
-Sokoban implementation made with Phaser3
+Sokoban implementation - using Phaser3
 
 ## Quick Start
 
