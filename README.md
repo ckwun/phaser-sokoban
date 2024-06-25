@@ -1,5 +1,5 @@
 # phaser-sokoban
-Sokoban implementation - using Phaser3
+Sokoban implementation - using [Phaser3](https://newdocs.phaser.io/)
 
 ## Quick Start
 
@@ -11,4 +11,4 @@ npm run dev
 ```
 
 ## Credit
-[Kenney](www.kenney.nl)
+[Kenney - www.kenney.nl](https://www.kenney.nl/)
